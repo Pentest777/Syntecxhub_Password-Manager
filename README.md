@@ -38,7 +38,7 @@ Uses Fernet (symmetric encryption)
 1. Install dependencies
 pip install cryptography
 2. Run the program
-python project2.py
+python password manager.py
 📌 Usage
 ===== PASSWORD MANAGER =====
 1. Add Password
