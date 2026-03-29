@@ -70,7 +70,7 @@ pip install cryptography
 ### 2. Run the program
 
 ```bash
-python project2.py
+python password_manager.py
 ```
 
 ---
