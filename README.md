@@ -16,13 +16,7 @@ Python 3
 cryptography library (Fernet encryption)
 JSON for storage
 SHA-256 for key generation
-📂 Project Structure
-password-manager/
-│
-├── project2.py        # Main application file
-├── vault.json         # Encrypted password storage
-├── key.key            # Master key (generated on first run)
-└── README.md
+
 🔐 How It Works
 On first run:
 User sets a Master Password
